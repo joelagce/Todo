@@ -1,0 +1,26 @@
+
+.TodoCounter {
+  font-size: 17px;
+  text-align: center;
+  
+  font-weight: 400;
+  font-family: 'Montserrat';
+  color: #fff;
+}
+.Title{
+  
+  display: flex;
+  font-size: 29px;
+  font-family: 'Montserrat';
+  color: #fff;
+  justify-content: center;
+}
+.task{
+  margin-top: 40px;
+  font-size: 64px;
+  
+  color: #fff;
+}
+.todo-counter{
+  text-align: center;
+}
